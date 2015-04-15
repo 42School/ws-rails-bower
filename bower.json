@@ -1,0 +1,22 @@
+{
+  "name": "ws-rails",
+  "version": "0.7.0",
+  "authors": [
+    "Andre Aubin <andre@staff.42.fr>"
+  ],
+  "description": "WebSocket Rails JS client for Bower",
+  "main": "websocket-rails.js",
+  "keywords": [
+    "websocket",
+    "rails"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/websocket-rails/websocket-rails",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
