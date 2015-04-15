@@ -1,5 +1,5 @@
 {
-  "name": "ws-rails",
+  "name": "websocket-rails",
   "version": "0.7.0",
   "authors": [
     "Andre Aubin <andre@staff.42.fr>"
